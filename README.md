@@ -1,5 +1,5 @@
 # Homeassignment4
-# README - Home Assignment 3 (Neural Networks and Deep Learning)
+# README - Home Assignment 4 (Neural Networks and Deep Learning)
 
 ## Student Information
 **Name:** Ashritha Reddy Katta
